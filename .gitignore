@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Build folders
+dist/
+build/
